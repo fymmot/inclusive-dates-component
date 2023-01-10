@@ -1,5 +1,7 @@
 <div align="center">
   <h1>Inclusive dates v2</h1>
+
+<H2>Archived, development is moved to the original repo fymmot/inclusive dates</H2>
   
   <p><strong>A human-friendly and fully accessible datepicker with support for natural language input. Try typing "tomorrow" or "in 10 days"! Now as a reusable Web Component!</strong></p>
 
